@@ -1,0 +1,4 @@
+{
+  "directory": "app/bower_components",
+  "proxy": "http://webproxy-fra.deutsche-boerse.de:8080/"
+}
